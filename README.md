@@ -101,7 +101,7 @@ class MithileshKolhapurkar:
 - 🌱 Deepening expertise in Deep Learning and Neural Networks
 - 👯 Open to collaborating on innovative AI/ML projects
 - 💬 Ask me about Python, Machine Learning, or Computer Vision
-- 🎯 2025 Goal: Launch my first AI startup
+- 🎯 2026 Goal: Launch my first AI startup
 
 ---
 
