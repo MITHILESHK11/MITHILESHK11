@@ -71,17 +71,16 @@ class MithileshKolhapurkar:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MITHILESHK11&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MITHILESHK11&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 
-</div>
+![](https://github-readme-stats.vercel.app/api?username=MITHILESHK11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHILESHK11&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+![](https://streak-stats.demolab.com/?user=MITHILESHK11&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MITHILESHK11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ---
@@ -128,21 +127,11 @@ class MithileshKolhapurkar:
 
 ---
 
-## 📈 Contribution Graph
+## 🔝 Top Contributed Repositories
 
 <div align="center">
 
-[![Mithilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MITHILESHK11&theme=react-dark&hide_border=true&area=true)](https://github.com/MITHILESHK11)
-
-</div>
-
----
-
-## 🔝 Top Repositories
-
-<div align="center">
-
-[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MITHILESHK11&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/MITHILESHK11)
+![](https://github-contributor-stats.vercel.app/api?username=MITHILESHK11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
