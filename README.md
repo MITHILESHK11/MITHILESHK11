@@ -75,13 +75,13 @@ class MithileshKolhapurkar:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MITHILESHK11&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITHILESHK11&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MITHILESHK11&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MITHILESHK11&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHILESHK11&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHILESHK11&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 ---
@@ -132,7 +132,7 @@ class MithileshKolhapurkar:
 
 <div align="center">
 
-[![Mithilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MITHILESHK11&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mithilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MITHILESHK11&theme=react-dark&hide_border=true&area=true)](https://github.com/MITHILESHK11)
 
 </div>
 
@@ -142,7 +142,7 @@ class MithileshKolhapurkar:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MITHILESHK11&repo=your-top-repo&theme=radical&hide_border=true)](https://github.com/MITHILESHK11/your-top-repo)
+[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MITHILESHK11&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/MITHILESHK11)
 
 </div>
 
@@ -152,7 +152,7 @@ class MithileshKolhapurkar:
 
 ### 🌟 "The best way to predict the future is to invent it" - Alan Kay
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=MITHILESHK11&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=MITHILESHK11&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
