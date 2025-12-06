@@ -103,25 +103,7 @@ class MithileshKolhapurkar:
 - 💬 Ask me about Python, Machine Learning, or Computer Vision
 - 🎯 2026 Goal: Launch my first AI startup
 
----
-🎯 Strategic Vision: 2025-2027 Roadmap
-Immediate Focus (2025)
 
-🔄 MLOps Transition — Moving from model training to full deployment pipelines using Docker and CI/CD
-📝 Content Creation — Building audience through technical writing and "Learn in Public" strategy
-🌐 Cloud Deployment — Deploying projects to AWS/Azure/GCP for real-world accessibility
-
-Medium Term (2026)
-
-🚀 Startup MVP — Evolving Smart Water project into commercial Minimum Viable Product with real IoT hardware
-🤝 Open Source Contributions — Contributing to major AI/ML repositories to build industry reputation
-🎓 Advanced Specialization — Deep dive into specific AI domain (Computer Vision or NLP)
-
-Long Term (2027+)
-
-💼 Entrepreneurship Launch — Founding a GreenTech startup focused on environmental monitoring solutions
-🌍 Global Impact — Scaling solutions to address UN Sustainable Development Goals
-👥 Team Building — Assembling a world-class technical team for innovation
 ---
 ## 📫 Let's Connect!
 
