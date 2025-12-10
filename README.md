@@ -24,10 +24,10 @@ class MithileshKolhapurkar:
     
     def get_goals(self):
         return [
-            "Master cutting-edge AI technologies",
-            "Contribute to impactful open-source projects",
-            "Launch my own tech startup",
-            "Collaborate with innovative minds"
+            "Master cutting-edge AI technologies.",
+            "Contribute to impactful open-source projects.",
+            "Launch my own tech startup.",
+            "Collaborate with innovative minds."
         ]
 ```
 
